@@ -1,3 +1,4 @@
+
 # Software required for Hackathon
 During the hackathon, you will be able to use a remote machine already setup with
 everything you need (easiest but limited), use a local copy of that machine through [Docker](https://www.docker.com/) (recommended), or install
@@ -127,3 +128,4 @@ function transform (obj, enc, next) {
 
 ## Tutorials
 * [Using streams - readable, writable, transform streams and flow control](http://blog.yld.io/2016/01/13/using-streams) by [Pedro Teixeira](https://twitter.com/pgte)
+* [The Stream Handbook](https://github.com/substack/stream-handbook) by [James Halliday](http://substack.net/)
