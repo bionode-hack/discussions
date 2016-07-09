@@ -79,6 +79,8 @@ n stable
 ### Windows
 Go to [nodejs.org](https://nodejs.org) and follow Windows instructions.
 
+# Presentation slides
+* [Node.js Streams in detail](https://github.com/bionode-hack/discussions/blob/master/slides/bionode-hackathon.1.0.tutorial.streams.pdf)
 
 # Online courses
 
