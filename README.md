@@ -1,4 +1,26 @@
 
+# Programe
+
+**9:30** Arrivals (tea/coffee ...)
+
+**10:00 - 10:10** Introduction to DNAdigest (Fiona or Adrian)
+
+**10:20 - 10:40** Introduction to bionode (Bruno)
+
+**10:40 - 11:00** Genomic data landscape - a focus on accessibility (Adrian)
+
+**11:00 - 11:30** How to build a Node.js package for data fetching (Bruno) - practical session
+
+**11:45 - 13:00** Hack Session I ( 2:15 h session )
+
+**13:00 - 14:00** Lunch break
+
+**14:00 - 16:00** Hack Session II (3 to 4h) aiming for 14:00 to 17:30 session
+
+**16:15 - 16:45** Sessions Feedback
+
+**16:45 - 17:00** Closing remarks (Adrian + Bruno)
+
 # Software required for Hackathon
 During the hackathon, you will be able to use a remote machine already setup with
 everything you need (easiest but limited), use a local copy of that machine through [Docker](https://www.docker.com/) (recommended), or install
