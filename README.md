@@ -295,7 +295,7 @@ function transform (obj, enc, next) {
 [simplesquare1-url]: https://github.com/simplesquare1
 <!-- sureshhewa -->
 [sureshhewabi-img]: https://avatars3.githubusercontent.com/u/5387193?v=3&s=70
-[sureshhewabi-url]: https://github.com/sureshhewa
+[sureshhewabi-url]: https://github.com/sureshhewabi
 <!-- uhaz1 -->
 <!-- [uhaz1-img]: https://avatars2.githubusercontent.com/u/4403796?v=3&s=70 -->
 [uhaz1-img]: https://avatars1.githubusercontent.com/u/20296888?v=3&s=70
